@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<gamelist>
+    <games>
+     <name>God of War</name>
+     <cost>20$</cost>    
+    </games>
+    <games>
+     <name>God of War ragnarok</name>
+     <cost>60$</cost>    
+    </games>
+    <games>
+     <name>Resident Evil 4</name>
+     <cost>60$</cost>    
+    </games>
+    <games>
+     <name>Call Of Duty</name>
+     <cost>70$</cost>    
+    </games>
+    <games>
+     <name>Shadow Of The Colossus</name>
+     <cost>20$</cost>    
+    </games>
+</gamelist>
