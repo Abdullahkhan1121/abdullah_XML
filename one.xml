@@ -2,23 +2,23 @@
 
 
 <gamelist>
-    <games>
+    <games type="santa monica">
      <name>God of War</name>
      <cost>20$</cost>    
     </games>
-    <games>
+    <games type="santa monica">
      <name>God of War ragnarok</name>
      <cost>60$</cost>    
     </games>
-    <games>
+    <games type="capcom">
      <name>Resident Evil 4</name>
      <cost>60$</cost>    
     </games>
-    <games>
+    <games type="activision">
      <name>Call Of Duty</name>
      <cost>70$</cost>    
     </games>
-    <games>
+    <games type="team ico">
      <name>Shadow Of The Colossus</name>
      <cost>20$</cost>    
     </games>

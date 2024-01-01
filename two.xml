@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<booklist>
+    <books>
+        <name>Harry potter</name>
+        <coast>25$</coast>
+    </books>
+
+    <books>
+        <name>Biohazard</name>
+        <coast>30$</coast>
+    </books>
+
+    <books>
+        <name>Project Scarlet</name>
+        <coast>20$</coast>
+    </books>
+
+    <books>
+        <name>Code Geass</name>
+        <coast>50$</coast>
+    </books>
+</booklist>
