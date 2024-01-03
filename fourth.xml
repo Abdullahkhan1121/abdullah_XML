@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-stylesheet href="fourth.xsl" type="text/xsl"?>
+<class>
+    <student>
+        <name>Asad</name>
+        <age>14</age>
+        <number>346578</number>
+        <grade>A</grade>
+    </student>
+
+    <student>
+        <name>Ali</name>
+        <age>15</age>
+        <number>34718</number>
+        <grade>C</grade>
+    </student>
+
+    <student>
+        <name>Aryan</name>
+        <age>13</age>
+        <number>39860</number>
+        <grade>F</grade>
+    </student>
+
+    <student>
+        <name>Asadullah</name>
+        <age>17</age>
+        <number>345674</number>
+        <grade>S+</grade>
+    </student>
+</class>
