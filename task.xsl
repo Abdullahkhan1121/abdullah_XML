@@ -5,24 +5,42 @@
        <html>
         <head>
             <title>Task</title>
+            <style>
+                body{
+                    background-color:black;
+                    color:white;
+                }
+                table{
+                margin-left:475px;
+                box-shadow: 3px 3px 5px 5px gold;
+                }
+                h2{
+                    text-align:center;
+                    background-color:purple;
+                    padding:20px;
+                    font-size:30px;
+                    text-shadow:3px 3px 3px blue;
+                    font-weight:bold;
+                }
+            </style>
         </head>
         <body>
-            <h1>Bank Employee Table</h1>
+            <h2>Bank Employee Table</h2>
 
-            <table border="1">
+            <table border="1" cellspacing="20px" cellpadding="15px">
                 <tr>
                     <th>ID</th>
                     <th>NAME</th>
                     <th>SALARY</th>
                 </tr>
 
-                <xml:for-each select="employees">
+                <xsl:for-each select="employees">
                     <tr>
                         <td><xsl:value-of select="id"></xsl:value-of></td>
                         <td><xsl:value-of select="name"></xsl:value-of></td>
                         <td><xsl:value-of select="salary"></xsl:value-of></td>
                     </tr>
-                </xml:for-each>
+                </xsl:for-each>
             </table>
         </body>
        </html>

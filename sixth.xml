@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="sixth.xsl" type="text/xsl"?>
+
+<collection>
+    <cd>
+        <title>Empire Burlesque</title>
+        <artist>Abdullah</artist>
+    </cd>
+    <cd>
+        <title>Hide Your Heart</title>
+        <artist>Asadullah</artist>
+    </cd>
+    <cd>
+        <title>Greatest Hills</title>
+        <artist>Ali</artist>
+    </cd>
+    <cd>
+        <title>Long Road</title>
+        <artist>Wassay</artist>
+    </cd>
+    <cd>
+        <title>Journey</title>
+        <artist>Mustafa</artist>
+    </cd>
+    <cd>
+        <title>Life</title>
+        <artist>Junaid</artist>
+    </cd>
+    <cd>
+        <title>Time Travel</title>
+        <artist>Rehan</artist>
+    </cd>
+    <cd>
+        <title>In Future</title>
+        <artist>Asad</artist>
+    </cd>
+    <cd>
+        <title>From Past</title>
+        <artist>Azhar</artist>
+    </cd>
+    <cd>
+        <title>Golden City</title>
+        <artist>Rehman</artist>
+    </cd>
+    <cd>
+        <title>Fantasy</title>
+        <artist>Kadir</artist>
+    </cd>
+    <cd>
+        <title>Snowfall</title>
+        <artist>Saleem</artist>
+    </cd>
+
+</collection>
